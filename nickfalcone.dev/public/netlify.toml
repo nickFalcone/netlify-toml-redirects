@@ -1,0 +1,23 @@
+[[redirects]]
+from = "https://www.nickfalcone.dev"
+to = "https://www.nickfalcone.com"
+status = 301
+force = false
+
+[[redirects]]
+from = "https://nickfalcone.dev"
+to = "https://www.nickfalcone.com"
+status = 301
+force = false
+
+[[redirects]]
+from = "http://www.nickfalcone.dev"
+to = "https://www.nickfalcone.com"
+status = 301
+force = false
+
+[[redirects]]
+from = "http://nickfalcone.dev"
+to = "https://www.nickfalcone.com"
+status = 301
+force = false
